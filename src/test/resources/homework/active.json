@@ -1,0 +1,15 @@
+{
+  "id": 100,
+  "name": "server",
+  "dnsName": "google",
+  "isActive": true,
+  "applicationSoftware": [
+    "Windows Server 2000",
+    "Windows Server 2012"
+  ],
+  "networkConfigurations":
+    {
+      "socket": "ethernet",
+      "address": "192.168.1.1"
+    }
+}
