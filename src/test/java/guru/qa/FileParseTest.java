@@ -5,7 +5,7 @@ import com.codeborne.xlstest.XLS;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.opencsv.CSVReader;
-import model.Teacher;
+import guru.qa.model.Teacher;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

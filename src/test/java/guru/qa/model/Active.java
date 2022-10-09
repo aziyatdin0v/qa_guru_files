@@ -1,4 +1,4 @@
-package model;
+package guru.qa.model;
 
 import java.util.List;
 

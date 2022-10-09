@@ -4,7 +4,7 @@ import com.codeborne.pdftest.PDF;
 import com.codeborne.xlstest.XLS;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.opencsv.CSVReader;
-import model.Active;
+import guru.qa.model.Active;
 import org.assertj.core.api.AssertionsForClassTypes;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
